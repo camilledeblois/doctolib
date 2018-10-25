@@ -1,16 +1,14 @@
 # The Hacking Project - Semaine 4 - Jeudi #
 
-## Projet : Petit blog des familles ##
+## Projet : Doctolib ##
 
-Une application de blog où les utilisateurs peuvent créer des articles, les commenter, leur attribuer à une catégorie et liker les articles.
+Une application comme Doctolib où un appointment ne peut avoir qu'un seul doctor, mais un doctor peut avoir plusieurs appointment. Un appointment ne peut avoir qu'un seul patient, mais un patient peut avoir plusieurs appointment. Enfin, un doctor peut avoir plusieurs patient, au travers des appointments, et vice versa.
 
 ## Modèles : ##
 
-*  User
-*  Article
-*  Category
-*  Commentaire
-*  Like
+*  Doctor
+*  Patient
+*  Appoitment
 
 ## Auteurs ##
 
